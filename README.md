@@ -1,1 +1,2 @@
-# Silver Cyclops: Kentucky based silversmith creating handmade jewelry.
+Silver Cyclops is a website for a jewelry maker and silversmith. 
+Included features are video player, form, spinning images with links.
